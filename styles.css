@@ -1,0 +1,88 @@
+*{
+    text-align: center;
+    font-weight: bold;
+    margin-left: 2px;
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif; 
+    text-transform: capitalize;
+    font-weight: bold;
+}
+#navbarSupportedContent{
+    background-color: #343a40;
+}
+div{
+    background-color: #e0ece4;
+}
+.big{
+    width: 300px;
+}
+#title{
+    display: block;
+    margin: 0px;
+    padding-right: 0px;
+    background-color: rgb(63, 60, 60)
+}
+
+#bt{
+    color: red;
+    background-color: blue;
+}
+.nav-items{
+    text-align: left;
+}
+.nav-link{
+    color: mediumvioletred;
+    font-weight: normal;
+    text-align: left;
+}
+.navbar-brand{
+    color: hotpink;
+    font-weight: normal;
+}
+h1,h3,h4{
+    font-weight: bolder;
+    font-family: 'Russo One', sans-serif;
+    font-size: 2rem;
+}
+p{
+    font-size: 1.2rem;
+    background-color: #f7f2e7;
+}
+h4{
+    font-size: 2rem;
+}
+h3{
+    text-align: left;
+}
+.id{
+    background-color: #e0ece4;
+    text-align: left;
+    font-size: 2rem;
+    margin-bottom: 0px;
+    font-weight: normal;
+    color: red;
+}
+#contact{
+    background-color: #ef8172;
+}
+.con{
+    margin: 10px;
+    size: 40px;
+    color: white;
+}
+#copyright{
+    background-color: rgb(16, 16, 85);
+    height: 30px;
+}
+h6{
+    color: white;
+}
+h2{
+    color: white;
+    font-weight: bolder;
+    font-family: 'Russo One', sans-serif;
+}
+#food{
+    margin-bottom: 0px;
+}
